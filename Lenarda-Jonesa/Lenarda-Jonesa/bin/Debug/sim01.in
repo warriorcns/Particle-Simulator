@@ -1,0 +1,7 @@
+config        config01.xyz
+mass          39.948
+potential     0.0104 3.4
+timestep      2.5
+steps         1000
+thermo        out01.log
+traj          out01.xyz

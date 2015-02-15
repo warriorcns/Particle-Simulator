@@ -1,0 +1,10 @@
+C:\Users\dkohland\Google Drive\STUDIA\Nanotechnologia obliczeniowa\Zad4\Lenarda-Jonesa\Lenarda-Jonesa\bin\Release\Lenarda-Jonesa.exe
+C:\Users\dkohland\Google Drive\STUDIA\Nanotechnologia obliczeniowa\Zad4\Lenarda-Jonesa\Lenarda-Jonesa\bin\Release\Lenarda-Jonesa.pdb
+C:\Users\dkohland\Google Drive\STUDIA\Nanotechnologia obliczeniowa\Zad4\Lenarda-Jonesa\Lenarda-Jonesa\obj\x86\Release\Lenarda-Jonesa.exe
+C:\Users\dkohland\Google Drive\STUDIA\Nanotechnologia obliczeniowa\Zad4\Lenarda-Jonesa\Lenarda-Jonesa\obj\x86\Release\Lenarda-Jonesa.pdb
+C:\Users\dkohland\Google Drive\STUDIA\Nanotechnologia obliczeniowa\Zad4\Lenarda-Jonesa\Lenarda-Jonesa\obj\x86\Release\Lenarda-Jonesa.csprojResolveAssemblyReference.cache
+F:\STUDIA\IX semestr\Nanotechnologia obliczeniowa (1)\Zad4\Lenarda-Jonesa\Lenarda-Jonesa\obj\x86\Release\Lenarda-Jonesa.exe
+F:\STUDIA\IX semestr\Nanotechnologia obliczeniowa (1)\Zad4\Lenarda-Jonesa\Lenarda-Jonesa\obj\x86\Release\Lenarda-Jonesa.pdb
+F:\STUDIA\IX semestr\Nanotechnologia obliczeniowa (1)\Zad4\Lenarda-Jonesa\Lenarda-Jonesa\bin\Release\Lenarda-Jonesa.exe
+F:\STUDIA\IX semestr\Nanotechnologia obliczeniowa (1)\Zad4\Lenarda-Jonesa\Lenarda-Jonesa\bin\Release\Lenarda-Jonesa.pdb
+F:\STUDIA\IX semestr\Nanotechnologia obliczeniowa (1)\Zad4\Lenarda-Jonesa\Lenarda-Jonesa\obj\x86\Release\Lenarda-Jonesa.csprojResolveAssemblyReference.cache

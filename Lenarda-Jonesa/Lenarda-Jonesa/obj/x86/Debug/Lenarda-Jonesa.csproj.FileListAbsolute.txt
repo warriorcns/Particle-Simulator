@@ -1,0 +1,10 @@
+C:\Users\dkohland\Google Drive\STUDIA\Nanotechnologia obliczeniowa\Zad3\Lenarda-Jonesa\Lenarda-Jonesa\bin\Debug\Lenarda-Jonesa.exe
+C:\Users\dkohland\Google Drive\STUDIA\Nanotechnologia obliczeniowa\Zad3\Lenarda-Jonesa\Lenarda-Jonesa\bin\Debug\Lenarda-Jonesa.pdb
+C:\Users\dkohland\Google Drive\STUDIA\Nanotechnologia obliczeniowa\Zad3\Lenarda-Jonesa\Lenarda-Jonesa\obj\x86\Debug\Lenarda-Jonesa.exe
+C:\Users\dkohland\Google Drive\STUDIA\Nanotechnologia obliczeniowa\Zad3\Lenarda-Jonesa\Lenarda-Jonesa\obj\x86\Debug\Lenarda-Jonesa.pdb
+C:\Users\dkohland\Google Drive\STUDIA\Nanotechnologia obliczeniowa\Zad3\Lenarda-Jonesa\Lenarda-Jonesa\obj\x86\Debug\Lenarda-Jonesa.csprojResolveAssemblyReference.cache
+C:\Users\dkohland\Google Drive\STUDIA\Nanotechnologia obliczeniowa\Zad4\Lenarda-Jonesa\Lenarda-Jonesa\obj\x86\Debug\Lenarda-Jonesa.exe
+C:\Users\dkohland\Google Drive\STUDIA\Nanotechnologia obliczeniowa\Zad4\Lenarda-Jonesa\Lenarda-Jonesa\obj\x86\Debug\Lenarda-Jonesa.pdb
+C:\Users\dkohland\Google Drive\STUDIA\Nanotechnologia obliczeniowa\Zad4\Lenarda-Jonesa\Lenarda-Jonesa\bin\Debug\Lenarda-Jonesa.exe
+C:\Users\dkohland\Google Drive\STUDIA\Nanotechnologia obliczeniowa\Zad4\Lenarda-Jonesa\Lenarda-Jonesa\bin\Debug\Lenarda-Jonesa.pdb
+C:\Users\dkohland\Google Drive\STUDIA\Nanotechnologia obliczeniowa\Zad4\Lenarda-Jonesa\Lenarda-Jonesa\obj\x86\Debug\Lenarda-Jonesa.csprojResolveAssemblyReference.cache

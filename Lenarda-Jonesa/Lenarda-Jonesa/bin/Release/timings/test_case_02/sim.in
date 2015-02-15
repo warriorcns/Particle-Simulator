@@ -1,0 +1,8 @@
+config        fcc_Ar_4x4x4.xyz
+mass          39.948
+potential     0.0104 3.4
+timestep      1.0
+steps         100
+thermo        out.log
+traj          out.xyz
+print         0 0
